@@ -1,0 +1,40 @@
+c:\users\admin\documents\visual studio 2015\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\Security Workplace Client.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\Security Workplace Client.exe
+c:\users\admin\documents\visual studio 2015\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\Security Workplace Client.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Security Workplace Client\Security Workplace Client\obj\Debug\Security_Workplace_Client.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Security Workplace Client\Security Workplace Client\obj\Debug\Security Workplace Client.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Security Workplace Client\Security Workplace Client\obj\Debug\Security Workplace Client.exe
+c:\users\admin\documents\visual studio 2015\Projects\Security Workplace Client\Security Workplace Client\obj\Debug\Security Workplace Client.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Security Workplace Client\Security Workplace Client\obj\Debug\Security_Workplace_Client.main_menu.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\gio-sharp.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\glib-sharp.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\gstreamer-sharp.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\Renci.SshNet.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\SshNet.Security.Cryptography.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\Renci.SshNet.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\SshNet.Security.Cryptography.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Security Workplace Client\Security Workplace Client\obj\Debug\Security Workplace Client.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Security Workplace Client\Security Workplace Client\obj\Debug\Security Workplace Client.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Security Workplace Client\Security Workplace Client\obj\Debug\Security Workplace Client.csproj.CopyComplete
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\System.ValueTuple.xml
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\Security Workplace Client.exe.config
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\Security Workplace Client.exe
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\Security Workplace Client.pdb
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\gio-sharp.dll
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\glib-sharp.dll
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\gstreamer-sharp.dll
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\Renci.SshNet.dll
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\SshNet.Security.Cryptography.dll
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\Renci.SshNet.xml
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\SshNet.Security.Cryptography.xml
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\bin\Debug\System.ValueTuple.xml
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\obj\Debug\Security Workplace Client.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\obj\Debug\Security_Workplace_Client.main_menu.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\obj\Debug\Security_Workplace_Client.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\obj\Debug\Security Workplace Client.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\obj\Debug\Security Workplace Client.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\obj\Debug\Security Workplace Client.csproj.CopyComplete
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\obj\Debug\Security Workplace Client.exe
+C:\Users\admin\Documents\Visual Studio 2019\Projects\Security Workplace Client\Security Workplace Client\obj\Debug\Security Workplace Client.pdb
